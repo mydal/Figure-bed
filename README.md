@@ -1,2 +1,2 @@
 # Figure-bed
-图床仓库
+Typora+GitHub+PicGo自建免费图床
